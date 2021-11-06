@@ -24,6 +24,12 @@ programs = [
 for program in programs:
     subprocess.Popen(f'"{program}"')
 
-# to phase out all the programs and show the desktop
+# wait for averything to load
 time.sleep(5)
+
+
+# to phase out all the programs and show the desktop
 pyautogui.hotkey("win", "d")
+# for MacOs one of these should work
+pyautogui.hotkey("fn", "f11")
+pyautogui.hotkey("command", "option", "h")

@@ -48,8 +48,8 @@ def generate():
 
 
 def main():
-    put_text("🔑 Passoword generator 🔑").style(head_style)
-    put_button("Generate random passoword",
+    put_text("🔑 Password generator 🔑").style(head_style)
+    put_button("Generate random password",
                onclick=generate).style(button_style)
 
 
