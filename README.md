@@ -13,7 +13,7 @@
 | For running scripts             | https://atom.io/packages/script                           |
 | Build-in console                | https://atom.io/packages/platformio-ide-terminal          |
 
-## [Basics of Python](docs.google.com/presentation/d/1CvYPmsbdkB18zVH5wnsanub-v4aC1KRIgaZgEQBvyf8/edit?usp=sharing)
+## [Basics of Python](https://docs.google.com/presentation/d/1CvYPmsbdkB18zVH5wnsanub-v4aC1KRIgaZgEQBvyf8/edit?usp=sharing)
 
 | Name                                         | Link                                                                              |
 | -------------------------------------------- | --------------------------------------------------------------------------------- |
